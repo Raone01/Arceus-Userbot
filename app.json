@@ -1,5 +1,5 @@
 {
-  "name": "albyuserbot",
+  "name": "₥₳ø฿ø₮ ฿ɏ ⚜️₳Đł₮Ɏ₳🔸",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Abhishek Singh",
   "keywords": [
     "plugin",
@@ -11,7 +11,7 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "give your name",
+      "description": "₥₳ø฿ø₮ ฿ɏ ⚜️₳Đł₮Ɏ₳🔸",
       "value": ""
     },
     "APP_ID": {
